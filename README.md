@@ -10,7 +10,7 @@ Simple wildfire tracker that uses NASA API
 Screenshots:
 
 
+![](wildfire.gif)
+
+
 ![](screenshot.png)
-
-
-
